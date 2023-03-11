@@ -1,5 +1,8 @@
 # rsschool-cv
 # Valeryia Dzmitrychenka
+
+![Это я](https://sun9-36.userapi.com/impg/tCULpAPxaAB24BlVS1c4aRRai-qh4DlR4gZnjg/GAmNXaJ-6sA.jpg?size=720x1080&quality=95&sign=6e984d8b1997abdabefa9e441fb2e173&type=album "Я")
+
 ## My Contact Info 
 + Discord: Valeria-Dm
 + GitHub: Valeria-Dm
